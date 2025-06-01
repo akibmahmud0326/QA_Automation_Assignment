@@ -1,4 +1,4 @@
-# 🛒 Amazon Automation Bot using Selenium
+# 🛒 Amazon Automation using Selenium
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen)
