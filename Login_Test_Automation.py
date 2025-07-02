@@ -2,7 +2,6 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 
-
 def setup_driver():
     driver = webdriver.Chrome()
     driver.get("https://www.saucedemo.com/")
