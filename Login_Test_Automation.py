@@ -18,7 +18,6 @@ def login_with_id():
     time.sleep(3)
     driver.quit()
 
-
 def login_with_xpath():
     driver = setup_driver()
 
