@@ -37,5 +37,4 @@ def main():
     login_with_id()
 
 
-if __name__ == "__main__":
-    main()
+main()
